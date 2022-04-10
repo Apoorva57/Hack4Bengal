@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "150822979962",
+    "project_id": "hack4bengal-a2047",
+    "storage_bucket": "hack4bengal-a2047.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150822979962:android:9161e0954cdd84b56aeec3",
+        "android_client_info": {
+          "package_name": "com.example.hack4bengal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150822979962-ofsk0k1orf08vto2826i9r3u73jevfue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaqcRnEPwd1tId6JdD_VqkTvn2RE4_olg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150822979962-ofsk0k1orf08vto2826i9r3u73jevfue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
